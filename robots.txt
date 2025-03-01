@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /search
+Disallow: /search?*query=*
 
 Sitemap: https://joesmusings.netlify.app/sitemap.xml
