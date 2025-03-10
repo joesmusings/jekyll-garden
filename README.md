@@ -1,3 +1,14 @@
+## notes to self
+
+to build locally run: `bundle exec jekyll serve`
+current url: https://joesmusings.netlify.app/
+
+
+### todo
+- [ ] create css variables for background, primary color, accent colors, etc.
+- [ ] create blog index page that queries a _posts folder
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
 
 # Digital garden Jekyll template
