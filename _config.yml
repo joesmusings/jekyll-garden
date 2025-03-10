@@ -23,6 +23,7 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-feed
 
 sass:
   sass_dir:          _sass
@@ -42,3 +43,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "_notes/posts/*.md"
+    values:
+      layout: "post"
