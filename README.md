@@ -1,4 +1,4 @@
-## notes to self
+## notes to self!
 
 to build locally run: `bundle exec jekyll serve`
 current url: https://joesmusings.netlify.app/
